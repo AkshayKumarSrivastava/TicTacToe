@@ -1,2 +1,3 @@
 # TicTacToe
-a simple c program that has 2 players playing ticktacktoe with each other
+a simple program that has 2 players playing ticktacktoe with each other
+the program is written in c language.
