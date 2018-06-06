@@ -1,0 +1,29 @@
+# depslib dependency file v1.0
+1509811696 source:c:\users\suvash raj\desktop\tictactoe\cursor_position.c
+	<windows.h>
+
+1509817807 source:c:\users\suvash raj\desktop\tictactoe\main.c
+	<stdio.h>
+	<stdlib.h>
+	<windows.h>
+
+1509811733 source:c:\users\suvash raj\desktop\tictactoe\set_color.c
+	<windows.h>
+
+1509816664 source:c:\users\suvash raj\desktop\tictactoe\check_sequence.c
+	<stdio.h>
+
+1509816666 source:c:\entertainment\project_c\tictactoe\check_sequence.c
+	<stdio.h>
+
+1509811698 source:c:\entertainment\project_c\tictactoe\cursor_position.c
+	<windows.h>
+
+1509811734 source:c:\entertainment\project_c\tictactoe\set_color.c
+	<windows.h>
+
+1510726049 source:c:\entertainment\project_c\tictactoe\main.c
+	<stdio.h>
+	<stdlib.h>
+	<windows.h>
+
